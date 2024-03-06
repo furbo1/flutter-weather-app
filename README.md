@@ -44,7 +44,7 @@ This Flutter application, Clima Weather, is a mobile weather application that al
     ```
 Navigate to the project folder:
 ```bash
-cd clima_weather_app
+cd clima_flutter
 ```
 Install dependencies:
 ```bash

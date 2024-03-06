@@ -39,9 +39,12 @@ This Flutter application, Clima Weather, is a mobile weather application that al
 
 1. Clone the repository:
 
-   ```bash
+```bash
    git clone https://github.com/furbo1/flutter-weather-app.git
-    ```
+```
+   
+Get an API key from [OpenWeatherMap](https://openweathermap.org/api) and replace `API_KEY`:
+
 Navigate to the project folder:
 ```bash
 cd clima_flutter
